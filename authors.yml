@@ -3,24 +3,29 @@ project:
   
   authors:
     - id: student
-      name: student without a name yet
+      name: Diogo Andre Silvares Dias
       affiliations:
         - tud
+        - nova-sst
 
   contributors:
     - id: supervisor-1
-      name: prof. dr. John Doe
+      name: Prof. Dr. Joao Carlos da Palma Goes
       affiliations:
-        - tud
+        - nova-sst
     - id: committee-1
-      name: Prof. Dr. C. Examiner
+      name: Prof. Dr. Tiago Marta Lopes da Costa
       affiliations:
         - tud
     - id: committee-2
-      name: Dr. D. Examiner
+      name: Prof. Dr. Jorge Fernandes
       affiliations:
-        - tud
+        - ulisboa-tecnico
 
   affiliations:
     - id: tud
       institution: Delft University of Technology
+    - id: nova-sst
+      institution: NOVA University of Lisbon - Faculty of Science and Technology
+    - id: ulisboa-tecnico
+      institution: Universidade de Lisboa - Instituto Superior Técnico

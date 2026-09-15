@@ -1,11 +1,11 @@
 # $env:BASE_URL = "/starterkit"
 version: 1
 project:
-  title: TU Delft's JB Starterkit
+  title: A JBoss Tutorial Starterkit for Open-Science
   # description:
   keywords: [Jupyter Book, Open Science, TU Delft, Starterkit]
 
-  github: https://github.com/TUD-JB-OS/starterkit # change this to your own repository
+  github: https://github.com/das-dias/jboss-workshop-pixi # change this to your own repository
   date: 2026-01-31
   thumbnail: style/thumbnail.jpg
   numbering: 

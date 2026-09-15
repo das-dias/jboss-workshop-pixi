@@ -1,7 +1,7 @@
 # $env:BASE_URL = "/starterkit"
 version: 1
 project:
-  title: A JBoss Tutorial Starterkit for Open-Science
+  title: CMOS Integrated Circuits for Ultrasound High Frame Rate Imaging
   # description:
   keywords: [Jupyter Book, Open Science, TU Delft, Starterkit]
 
